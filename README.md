@@ -2,7 +2,6 @@
   
 [![Untitled557-20260308184248-(2).png](https://i.postimg.cc/vBvstw4D/Untitled557-20260308184248-(2).png)](https://postimg.cc/DJmH7DdK)
 <br>
-<br>
         <br>
       $\color{#b23427}{\textsf{Ash '' Leo‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ He-They}}$<br>
       $\color{#b23427}{\textsf{Agender‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ AroAce}}$<br>
@@ -17,7 +16,4 @@
       $\color{#b23427}{\textsf{gifted by my lovely friends!   }}$<br>
         <br>
         $\color{#b23427}{\textsf{I am antisocial i think...}}$<br>
-          <br>
-      </td>
-    </tr>
   </table>
