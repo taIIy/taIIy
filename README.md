@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**taIIy/taIIy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+[![Untitled557-20260308184248-(1)-(3).png](https://i.postimg.cc/SNNLmLqy/Untitled557-20260308184248-(1)-(3).png)](https://postimg.cc/dDpZByLX)
+<br>
+<br>
+  <table>
+    <tr>
+      <td>
+        <br>
+      $\color{#b23427}{\textsf{Ash '' Leo‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ He-They}}$<br>
+      $\color{#b23427}{\textsf{Agender‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ AroAce}}$<br>
+      $\color{#b23427}{\textsf{Fifteen‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 18+ dni}}$<br>
+     $\color{#b23427}{\textsf{ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎‎· · ─ ·✶· ─ · ·}}$<br>
+     $\color{#b23427}{\textsf{ Suspected Neurodivergency   }}$<br>
+      $\color{#b23427}{\textsf{‎I have unkown mental health }}$<br>
+     $\color{#b23427}{\textsf{ issues aswell :)  }}$<br>
+       <br>
+     $\color{#b23427}{\textsf{ Usually offtab, w2i always   }}$<br>
+     $\color{#b23427}{\textsf{ Ponies with any gift emoji are   }}$<br>
+      $\color{#b23427}{\textsf{gifted by my lovely friends!   }}$<br>
+        <br>
+        $\color{#b23427}{\textsf{I am antisocial i think. I don't}}$<br>
+        $\color{#b23427}{\textsf{usually make friends. I Think.  }}$<br>
+          <br>
+      </td>
+    </tr>
+  </table>
